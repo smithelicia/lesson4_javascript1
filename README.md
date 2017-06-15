@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 16, 2017
 
 ### Student Name:  
-(First and Last Name)
+Elicia Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The purpose of this assignment is for the student to develop an understanding of the fundamentals of the Javascript programming language, and learn how to declare variables, store data in objects, and implement basic functions such as document.getElementById.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://smithelicia.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Variable scope: the scope of a variable is where a declared variable can be used in a code. If it is a global variable, it is declared outside of a function and can be used in all parts of the code. If it's a local variable, it is declared inside a function, and thus can only be used within that function it was declared in.
+2. parseFloat function: the purpose of the parseFloat function is to convert the input by the user, which is a String, into Floats (numbers) which can then be calculated.
+3. getElementById function: the getElementById function is used to identify the place on the HTML page where the output of the program will be placed.
 
